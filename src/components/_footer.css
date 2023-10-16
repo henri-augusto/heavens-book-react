@@ -1,0 +1,12 @@
+footer {
+    margin-top: 5px;
+    border-radius: 5px;
+    padding-left: inherit;
+    padding-right: inherit;
+    background-color: #ffff;
+}
+
+form {
+    padding-left: 5px;
+    padding-right: 5px;
+}
